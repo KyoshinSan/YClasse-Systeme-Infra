@@ -31,9 +31,11 @@ Sur VMware Workstation > **Edit** > **Virtual Network Editor**, récupérer les 
 ### b. Importation de la machine virtuel
 
 Nous allons maintenant importer la VM sur VMware Workstation Pro. 
+
 Quelques précisions sur VMware workstation Pro, c'est un hyperviseur de niveau 2.
 
 Hyperviseur de niveau 1 vs Hyperviseur de niveau 2
+
 ![Hyperviseur niveau 1 vs Hyperviseur niveau 2](https://user.oc-static.com/upload/2019/06/14/15605121904745_fzfzefezfz.png)
 
 Sur VMware Workstation > **Home** > **Open a Virtual Machine**, sélectionner le fichier en `.ova`
